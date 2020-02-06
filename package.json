@@ -4,14 +4,17 @@
   "private": true,
   "dependencies": {
     "aphrodite": "^2.2.3",
-    "bootstrap": "^3.3.7",
-    "jquery": "^3.3.1",
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.4.1",
     "popper.js": "^1.14.6",
     "react": "^16.7.0",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.7.0",
+    "react-grid": "^4.0.3",
+    "react-grid-system": "^6.1.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.1.2"
+    "react-scripts": "^3.3.1",
+    "yaml": "^1.7.2"
   },
   "scripts": {
     "start": "react-scripts start",

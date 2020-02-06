@@ -1,47 +1,48 @@
 nav.navbar,
 .navbar-default {
-  background-color: black;
-  margin-bottom: -20px;
+	background-color: rgba(0, 0, 0, 0);
+	margin-bottom: -20px;
+	width: 100%;
 }
 
 .navbar-default {
-  background-image: black;
-  border: black;
-  border-radius: 0;
-  height: 80px;
-  width: 100vw;
+	background-image: black;
+	border: black;
+	border-radius: 0;
+	width: 100vw;
+	text-align: start;
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: transparent;
+	color: transparent;
 }
 
 .navbar-default .navbar-brand {
-  color: transparent;
+	color: transparent;
 }
 
 .navbar-default .navbar-toggle {
-  border-color: transparent;
+	border-color: transparent;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: transparent;
-  margin-bottom: 3px;
+	background-color: transparent;
+	margin-bottom: 3px;
 }
 
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
-  background-color: transparent;
+	background-color: transparent;
 }
 
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:hover {
-  color: transparent;
-  background-color: transparent;
+	color: transparent;
+	background-color: transparent;
 }
 
 .navbar-default .navbar-nav > li > a:focus,
 .navbar-default .navbar-nav > li > a:hover {
-  color: transparent;
-  background-color: transparent;
+	color: transparent;
+	background-color: transparent;
 }

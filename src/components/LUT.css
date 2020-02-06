@@ -1,7 +1,11 @@
+body {
+	overflow-x: hidden;
+}
 .LUT {
-  background-image: url("assets/lappeenranta_kuva.png");
-  height: 95vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+	background-image: url('assets/lappeenranta_kuva.png');
+	height: 100vh;
+	width: 100vw;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }

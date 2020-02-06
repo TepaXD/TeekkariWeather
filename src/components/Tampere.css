@@ -1,9 +1,8 @@
 .Tampere {
-  background-image: url("assets/Tampere_kuva.png");
-  height: 95vh;
-  position: relative;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin-bottom: -10px;
+	background-image: url('assets/Tampere_kuva.png');
+	height: 93.8vh;
+	width: 100vw;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
