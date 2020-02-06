@@ -7,7 +7,7 @@ import './palkki.css';
 export default class CustomNavbar extends Component {
 	render() {
 		return (
-			<Navbar sticky="top" expand="md" className="navbar-default">
+			<Navbar sticky="top" expand="lg" className="navbar-default">
 				<Navbar.Toggle aria-controls="responsive-navbar-nav"></Navbar.Toggle>
 				<Navbar.Collapse id="responsive-navbar-nav">
 					<Nav className="ml-auto">
